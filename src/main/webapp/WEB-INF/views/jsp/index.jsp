@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To HINDUJA TECH LIMITED, Gateway Park</h2>
-			<h3>A6 Tower, Perungalathur, Chennai, TamilNadu</h3>
+			<h2>Welcome To HINDUJA TECH LIMITED, Gateway Parks</h2>
+			<h3>A6 Tower, Perungalathur, Chennai, Tamil Nadu.</h3>
 		</div>	
 	</div>
 
