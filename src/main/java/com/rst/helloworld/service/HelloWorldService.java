@@ -23,7 +23,7 @@ public class HelloWorldService {
 		logger.debug("getTitle() is executed! $name : {}", name);
 
 		if(StringUtils.isEmpty(name)){
-			return "Priya";
+			return "Hinduja Team";
 		}else{
 			return "Hello " + name;
 		}
