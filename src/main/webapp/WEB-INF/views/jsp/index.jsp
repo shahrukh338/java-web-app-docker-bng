@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Ashok Leyland</p>
+		<p>&copy; Hinduja Tech</p>
 	</footer>
 </div>
 
