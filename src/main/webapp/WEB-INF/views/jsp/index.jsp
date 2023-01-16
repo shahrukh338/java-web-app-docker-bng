@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Hindujatech Limited</p>
+		<p>&copy; Ashok Leyland</p>
 	</footer>
 </div>
 
