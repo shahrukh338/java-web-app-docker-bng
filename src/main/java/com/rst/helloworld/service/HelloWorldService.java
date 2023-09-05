@@ -23,7 +23,7 @@ public class HelloWorldService {
 		logger.debug("getTitle() is executed! $name : {}", name);
 
 		if(StringUtils.isEmpty(name)){
-			return "HELLO HINDUJA TECH TEAM DevOps Team";
+			return "HELLO Basa Sai Ramesh Reddy, the most handsome guy in Nanda Pg and mr.Vikas Reddy is his competetor ";
 		}else{
 			return "Hello " + name;
 		}
